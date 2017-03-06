@@ -8,7 +8,7 @@ if __name__ == '__main__':
     rawText = f.read()
     # Splitting texts into arrays by newline
     splitText = rawText.split('\n')
-    #tokenized_sentences = sent_tokenize(splitText)
+    
     for i in range(0,100):
         text = sent_tokenize(splitText[i])
         textPosTag = nltk.pos_tag(text)
