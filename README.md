@@ -1,13 +1,14 @@
-## Semantic relatedness of Yahoo query logs (SNA Project)
+# Semantic relatedness of Yahoo query logs (SNA Project)
 
-# Dependencies
+## Dependencies
 - Python 2.7
 - Nltk library
 - python-arango client
 
-# Database
-
-# Installing dependencies
+## Database
+	- ArangoDB : <a href="https://www.arangodb.com/download/">Download it from here/</a>
+	
+## Installing dependencies
 Run these commands for installing dependencies.
 
     `pip install -U nltk`
