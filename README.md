@@ -1,4 +1,6 @@
 # Semantic relatedness of Yahoo query logs (SNA Project)
+In this project we have tried to build query networks from web search engine query logs, with the nodes representing queries and the edges exhibiting the
+semantic relatedness between queries.
 
 ## Dependencies
 - Python 2.7
