@@ -121,7 +121,7 @@ def semantic_similarity(str1, str2):
     '''
     
     outputWeight = nounWeight + verbWeight
-    print "Output"
+    
     '''
     if outputWeight > 1:
         return 1
