@@ -6,7 +6,7 @@
 - python-arango client
 
 ## Database
-	- ArangoDB : <a href="https://www.arangodb.com/download/">Download it from here/</a>
+	* ArangoDB : <a href="https://www.arangodb.com/download/">Download it from here/</a>
 	
 ## Installing dependencies
 Run these commands for installing dependencies.
