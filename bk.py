@@ -49,7 +49,19 @@ for k,v in Freq_dist_nltk.items():
     if v > 1:
         #print str(k)+':'+str(v)
         print str(v)+'    '+str(k)        
-'''     
+'''    
+def is_valid_url(url):
+    import re
+    u = url.split(' ')
+    if len(u) > 1:
+        return None
+    regex = re.compile(
+        r'((?:[A-Z0-9](?:[A-Z0-9-]{0,61}[A-Z0-9])?\.)+[A-Z]{2,6}\.?|)'
+        r'(?::\d+)?'
+        r'(?:/?|[/?]\S+)$', re.IGNORECASE)
+    return url is not None and regex.search(url)
+    
+    
 def semantic_similarity(str1, str2):
     
     tk1 = nltk.word_tokenize(str1)
@@ -57,10 +69,23 @@ def semantic_similarity(str1, str2):
     tk2 = nltk.word_tokenize(str2)
     pt2 = nltk.pos_tag(tk2)
     
+    isUrl1 = is_valid_url(str1)       
+    isUrl2 = is_valid_url(str2)       
+    if isUrl1 or isUrl2:
+        return 0
+    
+    
     nounWeight = 0
     verbWeight = 0
     outputWeight = 0
     s = 0
+    
+    
+    cd1 = [word for word,pos in pt1 if pos == 'CD']
+    cd2 = [word for word,pos in pt2 if pos == 'CD']
+    
+    if cd1 or cd2:
+        return 0
     
     # Calculating noun weights
     propernouns1 = [word for word,pos in pt1 if pos == 'NN' or pos == 'NNP' or pos == 'PRP']
@@ -72,22 +97,18 @@ def semantic_similarity(str1, str2):
             for pn2 in propernouns2:
                 d = nltk.edit_distance(pn1, pn2)
                 syns2 = wn.synsets(pn2)
-                if syns1 and syns2:
+                try:
                     s = syns1[0].wup_similarity(syns2[0])                    
                     #s = syns1[0].path_similarity(syns2[0])
-                    if s > 0.2 and s < 0.4:
-                        nounWeight += 0.4
-                    elif s >= 0.4 and s < 0.75:
-                        nounWeight += s
-                    elif s >= 0.75 and s <= 1:
-                        nounWeight += 1
-                    else:
-                        if s:
-                            nounWeight += s
+                    if s:
+                        s = s / (len(propernouns1) + len(propernouns2))
+                        nounWeight += s                        
                 
                     # If distance is lesst than or equal 2 then add 0.2
                     if d <= 2:  
                         nounWeight += 0.2
+                except:
+                    continue
                 
     # Calculating verb weights
     verbs1 = [word for word,pos in pt1 if pos == 'VBN' or pos == 'VB']
@@ -99,36 +120,28 @@ def semantic_similarity(str1, str2):
             for vb2 in verbs2:
                 d = nltk.edit_distance(vb1, vb2)
                 syns2 = wn.synsets(vb2)
-                s = syns1[0].wup_similarity(syns2[0])
-                #s = syns1[0].path_similarity(syns2[0])
-                if s > 0.2 and s < 0.4:
-                    verbWeight += 0.4
-                elif s >= 0.4 and s < 0.75:
-                    verbWeight += s
-                elif s >= 0.75 and s <= 1:
-                    verbWeight += 1
-                else:
+                
+                try:
+                    s = syns1[0].wup_similarity(syns2[0])
+                    #s = syns1[0].path_similarity(syns2[0])
                     if s:
-                        verbWeight += s
-                
-                # If distance is lesst than or equal 2 then add 0.2
-                if d <= 2:  
-                    verbWeight += 0.2
-                
-    '''         
-    print syns1
-    print syns2
-    '''
-    
+                        s = s / (len(verbs1) + len(verbs2))
+                        verbWeight += s                        
+                    
+                    # If distance is lesst than or equal 2 then add 0.2
+                    if d <= 2:  
+                        verbWeight += 0.2
+                        
+                except:
+                    continue
+                    
     outputWeight = nounWeight + verbWeight
     
-    '''
-    if outputWeight > 1:
-        return 1
-    '''
     return outputWeight
 
 if __name__ == "__main__":
     print semantic_similarity('amateur crossdresser','amateur gang bang')
     print semantic_similarity('world war','the great war')
+    print semantic_similarity('www.worldwar.com','www.the-great-war.jp')
+    print semantic_similarity('1943 www.worldwar.com','www.the-great-war.jp 75 oulu')
 

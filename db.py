@@ -43,7 +43,7 @@ def create_nodes(stxt):
             key = convertToKey(txt)
             
             data = {'_key': str(key), 'name': txt, 'title': txt}
-            keywords.insert(data)       
+            keywords.insert(data)    
             print data
         
     return True
