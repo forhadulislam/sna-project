@@ -1,0 +1,1774 @@
+	vertex	degree	eigenvector	betweenness			
+1	.swf converter	1	0	0			
+2	-2146826259	6	0.004	40.974			
+3	rate your space	12	0.004	617.702			
+4	thai air ways	4	0.003	0			
+5	i'm not a player i just crush a lot lyrics	314	0.126	126147.336			
+6	american girl doll hair care	210	0.116	54000.207			
+7	air wisconsin	8	0.005	148.308			
+8	7-layer salad	1	0	0			
+9	a dick	2	0	0			
+10	lock & lock containers	36	0.023	7964.952			
+11	a h harris & sons	37	0.034	80.879			
+12	so ke hoach va dau tu thanh pho ho chi minh	35	0.034	323.691			
+13	la fitness promotion	35	0.02	4782.664			
+14	king pine ski area nh	70	0.072	3184.997			
+15	kat von d boyfriend	23	0.027	169.199			
+16	coca cola atlanta ga	159	0.112	17400.922			
+17	samantha harris maxim co host	42	0.042	1114.608			
+18	paige parks modeling agency houston tx	76	0.073	10129.569			
+19	ali b maids	77	0.063	2037.076			
+20	mansfield crossing mansfield ma	80	0.073	3701.695			
+21	wabc tv ny	67	0.055	2044.512			
+22	w&r enterprises	52	0.03	862.616			
+23	virgin radio fr	53	0.059	1125.88			
+24	ti website	21	0.026	44.933			
+25	the morning call lehigh valley pa	83	0.077	5233.691			
+26	the crystals then he kissed me	85	0.05	3878.229			
+27	shreveport la radio stations	46	0.053	519.064			
+28	s&r philippines pricesmart	45	0.022	481.876			
+29	outrigger maui el dorado	83	0.079	5863.044			
+30	new hip hop and r&b music	113	0.059	22500.283			
+31	midnight club la barrel locations	32	0.027	5988.862			
+32	maynard cooper & gale p c	81	0.052	3787.658			
+33	lbs vs kg conversion	49	0.025	644.519			
+34	i pod player	184	0.117	28742.734			
+35	i am woman hear me roar lyrics	283	0.14	58928.891			
+36	hp vs dell desktops	161	0.08	10098.96			
+37	hp notebook wireless card	138	0.101	11940.694			
+38	hampton inn lakeland fl	259	0.173	33432.949			
+39	city of dallas city hall dallas tx	295	0.169	73045.625			
+40	u s p s jobs	105	0.048	11004.694			
+41	quincy university quincy il	70	0.068	4323.23			
+42	U of A	116	0.053	3967.527			
+43	H& R BLOCK	183	0.088	11906.748			
+44	Florence	17	0.022	35.559			
+45	AM radio stations	39	0.03	2745.94			
+46	AAA gas prices	6	0.002	186.06			
+47	properties of solid liquid and gas	2	0	0			
+48	map strip game	38	0.028	3770.947			
+49	map of israel and gaza	80	0.078	4805.625			
+50	how to lose fat and gain muscle	31	0.012	9243.926			
+51	aarp pharmacy	3	0.001	0.211			
+52	what is credit card apr	28	0.009	2132.063			
+53	question mark clip art	45	0.029	6168.124			
+54	ab excersices	2	0.001	0			
+55	Abbey Road Studios	87	0.078	4977.158			
+56	wood county court	22	0.009	3064.94			
+57	weber county sheriffs office	20	0.021	282.267			
+58	water filter for home	41	0.044	3674.578			
+59	traverse curtain rods	22	0.025	124.959			
+60	tops and bottoms clothing store in chicago	17	0.023	26.679			
+61	thomas kincaide screen saver	24	0.032	96.244			
+62	the zone gym	18	0.02	97.384			
+63	the white house press office	29	0.027	1079.463			
+64	the port huron times herald newspaper	25	0.032	394.023			
+65	the big texan steak house	33	0.039	468.489			
+66	texas roadhouse rest restaurant	56	0.065	2378.89			
+67	texas road reports	4	0.002	0.442			
+68	teacher from West London resolved	45	0.051	940.13			
+69	stone jewelry	26	0.031	354.533			
+70	st vincent hospital bridgeport ct	49	0.057	397.685			
+71	somerville city hall ma	78	0.079	2407.048			
+72	snowshoe ski area	28	0.034	543.968			
+73	restaurant hood cleaning	14	0.015	272.753			
+74	pattern for plastic bag holder	73	0.065	6617.688			
+75	orchard hardware store	47	0.054	3260.899			
+76	map of houston texas area	102	0.085	7776.755			
+77	mandalay bay hotel vegas	49	0.06	765.898			
+78	mall of georgia store directory	101	0.087	7103.05			
+79	malaysia phone directory	34	0.047	141.177			
+80	making a diaper cake	31	0.034	1911.743			
+81	location of pentagon	21	0.03	19.916			
+82	loaf and jug	1	0.001	0			
+83	laurel county public library	17	0.015	180.258			
+84	knit fabric	41	0.04	1505.961			
+85	john travoltas home	34	0.025	4937.969			
+86	jeep wrangler off road parts	32	0.03	870.359			
+87	james bond island	14	0.012	964.917			
+88	iowa dot road report	37	0.023	2816.903			
+89	illinois bell telephone company	97	0.09	7189.285			
+90	hotel dogs the movie	58	0.048	2746.121			
+91	horseshoe valley resort	98	0.084	6910.599			
+92	holland bakery jakarta	121	0.094	7164.509			
+93	harbor freight stores location	108	0.099	3444.399			
+94	hampton inn chattanooga	86	0.09	1344.954			
+95	guitar chords for hotel california	93	0.087	3490.169			
+96	germany road conditions	6	0.002	16.332			
+97	frank wagon train	126	0.1	6438.995			
+98	ford explorer recalls	52	0.031	8304.453			
+99	food manager	10	0.005	2956.806			
+100	fixture universe kitchen and bath	188	0.12	18536.723			
+101	factory refurbished lcd tvs	40	0.038	2201.567			
+102	elmers auto salvage	41	0.033	4656.694			
+103	disney's boardwalk inn	113	0.097	6974.746			
+104	designer office furniture	134	0.102	10810.618			
+105	dakota county courthouse	30	0.022	1013.354			
+106	ct state website	203	0.143	14596.421			
+107	clubhouse restaurant	54	0.043	5977.316			
+108	china garden restaurant houston	44	0.042	1684.799			
+109	chapel ridge apartments arkansas	13	0.012	23.999			
+110	catwalk vintage store	40	0.04	726.958			
+111	carriage boutique clothing	110	0.089	5437.321			
+112	car parking manchester airport	125	0.098	10037.39			
+113	california state board of registered nursing	71	0.054	6297.981			
+114	body solid gym equipment	199	0.129	19025.006			
+115	belmont cinema aberdeen	83	0.085	1065.18			
+116	bear mountain ny ski	90	0.075	8301.898			
+117	baby boot camp	151	0.104	15882.531			
+118	arlington hospital virginia	120	0.1	5695.576			
+119	apex body bug fitness	106	0.082	9799.541			
+120	acme brick houston	54	0.05	1687.794			
+121	South Carolina Newspapers	105	0.094	4638.634			
+122	Sanctuary Beach Resort	20	0.02	450.263			
+123	Peak District National Park	158	0.12	21258.439			
+124	Miss America nude	76	0.075	8582.292			
+125	JOHN TRAVOLTA'S SON DIES	29	0.035	2921.918			
+126	Giant's Causeway	24	0.029	10.867			
+127	Fort Collins	50	0.059	6910.059			
+128	the prince george citizen newspaper	53	0.054	435.528			
+129	st george and sutherland shire leader	57	0.065	1844.706			
+130	pioneer home stereo system	119	0.093	12682.587			
+131	fun runner toy hauler	140	0.096	18190.6			
+132	carson prairie scott store	178	0.128	18871.814			
+133	butcher block kitchen island	260	0.151	50645.457			
+134	baby boy baby shower decorations	298	0.145	101426.844			
+135	atlantic station movie theater atlanta	270	0.163	57967.754			
+136	about adams respiratory therapeutics inc	1	0	0			
+137	absent friends	1	0	0			
+138	Acceptance insurance	9	0	321.944			
+139	mid century insurance	9	0.001	610.084			
+140	global life and accident insurance company	36	0.006	11388.62			
+141	ga health insurance	47	0.024	8717.278			
+142	free progressive insurance quote	8	0	1225.765			
+143	dominion of canada insurance	11	0	111.819			
+144	business insurance quotes	11	0.001	808.164			
+145	Titan insurance	7	0	2.711			
+146	Insurance Quotes Instantly	4	0	0			
+147	access files from	1	0	0			
+148	acer driver updates	3	0	11.015			
+149	play race car games	25	0.013	4094.514			
+150	Speed Racer Gallery	8	0.002	2426.522			
+151	old yahoo home	12	0.009	25.602			
+152	making alcohol at home	10	0.007	20.188			
+153	home made tomato sauce	19	0.011	905.326			
+154	dairy queen ice cream cakes	46	0.038	2092.889			
+155	chinese ice sculpture	18	0.016	273.982			
+156	bradford okeefe funeral home	24	0.015	943.838			
+157	california speeding ticket price range	22	0.008	4168.334			
+158	monster truck jam houston	24	0.029	316.893			
+159	metro houston	30	0.03	1674.412			
+160	rose bowl game time	20	0.006	5946.611			
+161	rome italy population	30	0.03	2062.957			
+162	part time lover lyrics	24	0.015	1950.792			
+163	age of empire III	23	0.014	320.803			
+164	home depot in mckinney tx	113	0.093	2710.002			
+165	drop me off in harlem	113	0.081	3131.534			
+166	crigslistlist houston tx	76	0.061	1089.836			
+167	saratoga springs figure skating club home page	25	0.014	3190.312			
+168	sagemont church houston tx	53	0.052	2997.849			
+169	magnolia clinic in houston	9	0.01	69.941			
+170	phoenix wright ace attorney justice for all	23	0.022	338.106			
+171	baby grace galveston texas	120	0.096	9898.199			
+172	anna's ice cream shop game	94	0.051	18231.686			
+173	eagle rock	9	0.009	98.521			
+174	fifth third bank cincinnati ohio	127	0.096	6299.64			
+175	boston bruins radio	23	0.015	925.256			
+176	Washington State Unemployment	57	0.047	712.803			
+177	acme whistles	2	0	0			
+178	addiction recovery guide	3	0	11.466			
+179	who's the boss episode guide	17	0.015	5704.693			
+180	recovery database network	4	0.001	255.159			
+181	adenoid surgery children	1	0	0			
+182	adidas jersey	1	0	0			
+183	adp flex account	9	0.002	126.549			
+184	best buy account	6	0.005	90.279			
+185	medical waste management act	22	0.006	2021.975			
+186	ip address definition	38	0.017	13182.314			
+187	estimate fuel cost for trip	28	0.012	2016.064			
+188	ang dating daan debate video	33	0.004	3920.841			
+189	advanced male masturbation	20	0.015	210.37			
+190	silver eagle pressure washers	6	0.005	415.668			
+191	masturbation pic	6	0.006	9.641			
+192	lyrics man in the mirror	34	0.039	608.971			
+193	western maine health care	13	0.006	705.221			
+194	jj cole mode diaper bag	124	0.086	14291.93			
+195	cookin mama game	29	0.009	5994.417			
+196	cole clark	51	0.036	1483.695			
+197	advantages of globalization	1	0	0			
+198	Advent Portable Automotive GPS Unit	7	0.005	63.067			
+199	use it or lose it	51	0.026	10837.814			
+200	the closer on tnt episode	17	0.018	287.757			
+201	Desert Schools Federal Credit Union	90	0.027	35211.105			
+202	tv video net	65	0.051	6020.018			
+203	advocate good sam	3	0.001	0.316			
+204	sam brady	22	0.02	676.419			
+205	affordable artwork	1	0	0			
+206	africa nazarene university kenya	6	0.002	58.283			
+207	university of maryland asia	6	0.006	110.383			
+208	University of York	9	0.001	1573.061			
+209	University of Texas at Austin	57	0.042	3267.827			
+210	university of washington	9	0.004	114.853			
+211	african american slavery	1	0	0			
+212	texas air check program	18	0.015	438.09			
+213	georgia tag office license plate	126	0.097	13919.453			
+214	gel cell battery	56	0.033	7031.096			
+215	empire waist wedding dress	26	0.029	2242.377			
+216	care for cast iron skillet	114	0.039	32075.436			
+217	IRS Refund Cycle Chart	21	0.006	999.948			
+218	Agent provocateur	3	0.003	0			
+219	clovis adult education clovis ca	108	0.077	9134.286			
+220	aig american general	1	0	0			
+221	air compreser	1	0.002	0			
+222	Air Force Special Forces	13	0.007	106.067			
+223	pop cira i pop spira	36	0.033	1111.447			
+224	mystery pi lottery ticket	21	0.012	1092.962			
+225	kimball mn zip code	33	0.022	986.034			
+226	con queso dip recipe	32	0.015	4076.531			
+227	wisconsin badger insurance	7	0.001	134.957			
+228	aircraft plans	2	0	0			
+229	pacific aircraft	1	0	0			
+230	airline central	2	0	0			
+231	airline passenger forced	9	0.012	1438			
+232	child porn tube	24	0.024	2415.95			
+233	akron general hospital ohio	20	0.02	531.418			
+234	ri hospital rhode island	3	0.004	1.609			
+235	redding hospital	3	0.002	0			
+236	northern hospital epping	3	0.002	0			
+237	bethesda north hospital	6	0.002	4.554			
+238	things to do in toledo ohio	28	0.028	5180.149			
+239	rio grande nj	31	0.034	171.004			
+240	mercy hospital in des moines	36	0.043	606.126			
+241	madisonville state bank texas	78	0.068	3331.962			
+242	alabama cities	4	0.002	0			
+243	maine south	20	0.024	265.951			
+244	jobs in birmingham alabama	57	0.047	758.997			
+245	hospitals in birmingham alabama	57	0.047	758.997			
+246	alfie movie	12	0.004	12.487			
+247	royal oak movie theatre	6	0.003	0			
+248	movie listings nyc	6	0.003	0			
+249	live free or die hard movie	6	0.003	0			
+250	free movie editing	12	0.004	12.487			
+251	find movie theatres	15	0.004	4539.247			
+252	famous movie qoutes	12	0.004	12.487			
+253	watch rent the movie	19	0.014	529.047			
+254	this christmas movie cast	20	0.011	1266.724			
+255	movie gallery locations	9	0.004	161.074			
+256	whitetail ski resorts	5	0.006	2.666			
+257	strong boy names	7	0.008	0.261			
+258	measurements of a king size bed	37	0.034	2008.3			
+259	traverse city mi hotels	12	0.018	15.844			
+260	st dennis madison wi	7	0.013	0			
+261	pi phi	12	0.012	4.034			
+262	pa vehicle code	47	0.049	1750.932			
+263	oakleaf plantation jacksonville fl	41	0.046	763.549			
+264	nashoba valley ski area westford ma	38	0.049	258.044			
+265	margate fl	16	0.022	0.547			
+266	la salsa cantina las vegas	8	0.011	0.139			
+267	la pena berkeley	9	0.011	0.175			
+268	incognito royal oak mi	74	0.041	3652.88			
+269	graham and associates greensboro nc	55	0.051	143.927			
+270	free i toon download	91	0.054	11686.615			
+271	fitzgerald auto mall chambersburg pa	110	0.085	11341.499			
+272	el dorado casitas royale	17	0.014	26.483			
+273	delaney hall newark nj	104	0.09	1778.245			
+274	bayou la batre	19	0.015	28.722			
+275	b a	11	0.012	12.606			
+276	allen tate realtors greensboro nc	87	0.069	1779.817			
+277	village of fox lake il	31	0.033	452.41			
+278	fly cell ringtones	30	0.026	404.352			
+279	taylor swift tab	19	0.018	66.451			
+280	richland center wi	22	0.027	189.295			
+281	ml credit card	31	0.016	1244.138			
+282	laura steele bob and tom	35	0.025	1557.404			
+283	la scala restaurant philadelphia	29	0.038	177.045			
+284	la casa restaurant sacramento	27	0.035	163.752			
+285	fox my network tv	85	0.061	4322.054			
+286	bob and tom camel toe	163	0.074	46289.195			
+287	baby girl tutus	113	0.071	6210.295			
+288	David Foster Wallace	81	0.054	9352.542			
+289	all winners of american idol	1	0	0			
+290	slave lake alberta	2	0.003	0			
+291	homes for sale in beaumont california	27	0.021	210.352			
+292	east elmhurst ny	29	0.027	19.522			
+293	childers and venters pikeville ky	29	0.027	19.522			
+294	celebrity pic	46	0.046	915.828			
+295	doc washington	17	0.017	162.833			
+296	marine base in north carolina	28	0.032	388.594			
+297	usc penn state spread	20	0.022	69.402			
+298	maryland state tax assessment	35	0.04	254.47			
+299	state of texas registered sex offenders	51	0.051	1274.218			
+300	ymca of charlotte nc	26	0.031	61.685			
+301	us embassy denmark	28	0.032	91.368			
+302	uofh clear lake tx	21	0.026	32.77			
+303	tx driver license	25	0.03	162.805			
+304	train timetable uk	28	0.037	54.871			
+305	the addison park aberdeen nj	24	0.03	76.358			
+306	stanley county	44	0.043	1151.019			
+307	st lukes hospital sioux city ia	33	0.036	164.06			
+308	real estate NJ	14	0.018	55.81			
+309	provident bank nj	45	0.046	1477.718			
+310	chop me up lyrics	58	0.049	1739.967			
+311	bounce city humble tx	118	0.088	4352.24			
+312	aquarium ny	72	0.069	633.36			
+313	washington dc malls	37	0.038	386.203			
+314	union city tn	57	0.055	2977.877			
+315	state of america	32	0.031	1250.263			
+316	springfield il tv stations	29	0.034	202.941			
+317	river inn washington dc	46	0.047	1631.728			
+318	cat and girl	42	0.032	1614.908			
+319	cactus tree lyrics	31	0.021	1387.096			
+320	Sugar Mountain	30	0.036	1398.736			
+321	aloha sol	10	0.005	243.001			
+322	sol campbell rumours	13	0.016	78.749			
+323	net sol	2	0.001	0			
+324	mayo clinic cabbage soup diet recipe	12	0.002	369.098			
+325	alpha bank	11	0.005	2.367			
+326	types of bank	7	0.004	0			
+327	nbd bank	7	0.004	0			
+328	frost bank careers san antonio	11	0.005	2.367			
+329	first and peoples bank	11	0.005	2.367			
+330	citizens bank rates	11	0.005	2.367			
+331	citizen national bank	11	0.005	2.367			
+332	alpha source	1	0	0			
+333	altered beast forum	11	0.003	285.716			
+334	double bass drum sets	7	0.005	31.775			
+335	the pacifier cast	5	0.001	3.961			
+336	howard the duck cast	11	0.002	145.556			
+337	teacher assistant test	11	0.011	163.913			
+338	mango's miami beach	37	0.038	2059.237			
+339	Gulf Coast Community College	38	0.007	7744.494			
+340	west mountain radio	12	0.01	217.183			
+341	radio italia online	3	0.001	0			
+342	radio controlled models	3	0.001	0			
+343	radio contests	3	0.001	0			
+344	internet radio blues	35	0.022	6593.286			
+345	amarillo sour drink recipe	7	0	66.475			
+346	recipe for pita bread	6	0	7.803			
+347	laundry detergent recipe	6	0	7.803			
+348	harvest moon recipe	13	0.002	874.127			
+349	flat belly sassy water recipe	15	0.001	541.437			
+350	asian flank steak recipe	16	0.001	1883.829			
+351	amateur athletic union	7	0.001	0.544			
+352	southeastern credit union	13	0.001	21.254			
+353	central communications credit union	18	0.002	33.041			
+354	mass mutual federal credit union	22	0.004	1653.811			
+355	firstlight federal credit union union	38	0.005	3014.976			
+356	community credit union of lynn	25	0.002	273.427			
+357	amateur gang bang	44	0.02	8821.605			
+358	super man cartoon	8	0.007	152.192			
+359	starting a band	3	0	0			
+360	potential breakup song lyrics	3	0	37.56			
+361	man gifts	3	0.003	11.158			
+362	lung cancer	1	0	0			
+363	land rover engines	5	0.003	20.232			
+364	land for sale in indiana	12	0.009	3020.778			
+365	fraggle rock theme song lyrics	8	0.003	357.855			
+366	down band	4	0	0			
+367	bone thugs n harmony weed song lyrics	35	0.015	8071.47			
+368	big bang bus	15	0.01	170.439			
+369	university ring	3	0	103.84			
+370	texas fight song	10	0.005	1186.3			
+371	ohio bar association attorneys	7	0.007	92.262			
+372	mj morning show fan page	22	0.019	959.559			
+373	bank management and financial services	10	0.006	466.268			
+374	land line phone companies	16	0.006	4379.133			
+375	old mission bank sault ste marie mi	7	0.009	42.49			
+376	martin luther king writing paper	32	0.027	2025.629			
+377	free credit report commercial band	29	0.005	5109.342			
+378	bank of america rating	25	0.021	1637.43			
+379	ambassador east	3	0	4.897			
+380	fixed cost and variable cost	59	0.015	16273.659			
+381	ambulance sound effects	2	0	0			
+382	Sound Bar	7	0.003	1448.337			
+383	american board of general dentistry	1	0	0			
+384	american embassy nairobi	7	0.011	0			
+385	valentine golf balls	2	0.002	0			
+386	tlc car	9	0.008	72.169			
+387	thomas the train game online	8	0.003	2021.712			
+388	the longest yard sale	6	0.004	1479.466			
+389	the health benefits of olive oil	5	0.004	1448.88			
+390	the barking dog restaurant	17	0.02	165.96			
+391	tampadelphia bar	3	0.005	0			
+392	stanley carpet cleaner	20	0.029	151.809			
+393	second leading cause	2	0.002	0			
+394	rihanna short hair style pictures	1	0.002	0			
+395	real war footage	2	0.002	0			
+396	pedal fire truck	1	0.002	0			
+397	old english oil	4	0.004	1.157			
+398	nyc hair salons	5	0.002	0			
+399	nhl all star game scores	6	0.007	26.477			
+400	maggiore car rental	3	0.004	0			
+401	lyrics for bad girl	6	0.004	0			
+402	long hair cats	5	0.002	0			
+403	kirsten dunst hair	5	0.002	0			
+404	how to highlight your hair	8	0.002	0.6			
+405	how to convert car to electric	9	0.004	1573.364			
+406	hay creek ranch	34	0.03	2153.36			
+407	hair dryer attachments	19	0.017	1909.57			
+408	grenade launcher sale	5	0.002	35.076			
+409	golf santee	5	0.002	127.575			
+410	girl smoking	11	0.005	7.302			
+411	girl bunkbeds	8	0.004	0.243			
+412	free web cam viewing	35	0.025	2847.672			
+413	flybo electric car	3	0.003	0.121			
+414	female celebrities with short hair	8	0.002	0.6			
+415	earl may	3	0.002	0			
+416	denver rtd schedule light rail	6	0.003	498.876			
+417	dame chocolate	13	0.008	1208.2			
+418	country girl comments	9	0.005	13.998			
+419	carter blood	7	0.004	723.727			
+420	cape travel	8	0.003	1450.753			
+421	bus rate	9	0.008	97.425			
+422	auto oil leaks	13	0.01	894.089			
+423	amika hair straightener	32	0.03	1093.916			
+424	the world fact book	28	0.023	1547.183			
+425	the spider bull	5	0.005	10.515			
+426	pill identifier.	5	0.004	0			
+427	kenny bell supercharger	8	0.009	4.012			
+428	jean philippe hell's kitchen	12	0.014	8.815			
+429	go fit kettle bell	53	0.04	9902.089			
+430	doll making patterns	8	0.004	174.696			
+431	how to tie a scarf around your neck	9	0.006	237.002			
+432	dick blick art	17	0.013	193.923			
+433	century martial art	14	0.011	785.079			
+434	armor car	67	0.054	1840.515			
+435	NATIONAL RAIL ENQUIRIES	13	0.019	0.093			
+436	photo cube generator	18	0.021	307.997			
+437	hass avocados	8	0.007	2.564			
+438	zack morris cell phone	29	0.034	256.826			
+439	virgin mobile cell phones	33	0.035	1441.016			
+440	tinker bell coloring pages	25	0.029	204.436			
+441	nob hill spa san francisco	10	0.013	30.356			
+442	girl desktop wallpaper	19	0.012	562.718			
+443	dell monitor troubleshooting	17	0.013	9.527			
+444	cell phone text forwards	74	0.049	8399.379			
+445	McGraw Hill Publishing	24	0.018	90.524			
+446	yankee stadium seating chart	30	0.031	575.351			
+447	lufkin mall	13	0.016	36.99			
+448	Roll Call Votes	37	0.02	2363.329			
+449	clark energy kentucky	45	0.047	1687.142			
+450	pc video card reviews	33	0.029	2937.814			
+451	the new moon cast trailers	7	0.004	108.004			
+452	east coast music mall	53	0.033	7329.301			
+453	cast of not another tenn movie	12	0.006	248.621			
+454	Read Full Story	19	0.013	3150.682			
+455	Global Internet Marketing System	27	0.025	3135.849			
+456	robert plant tour	14	0.019	83.492			
+457	yellow polka dot dress	13	0.011	355.412			
+458	nokia reset code	11	0.008	243.51			
+459	the rocker actor Will	24	0.019	277.205			
+460	tennessee senator alexander	38	0.052	314.724			
+461	stephen crane short stories	14	0.015	30.933			
+462	scott clark	23	0.019	416.026			
+463	sarasota herald tribune	41	0.055	258.09			
+464	real world alumni	13	0.019	13.481			
+465	parr fish	11	0.011	102.456			
+466	mother daughter porn	12	0.011	481.728			
+467	kinds of girl scout cookies	16	0.012	112.575			
+468	clark transportation	37	0.039	514.769			
+469	baby girl bedding sets	46	0.031	975.023			
+470	Yale School of Drama	23	0.006	2164.343			
+471	chattahoochee river park	34	0.021	5128.063			
+472	closet space saver hangers	54	0.044	7749.438			
+473	Camille's Sidewalk Cafe	6	0.008	0			
+474	"fox sports ""Super Bowl"	13	0.015	97.597			
+475	Chili Bowl	4	0.002	0			
+476	Camden Snow Bowl	28	0.029	1508.5			
+477	easy recipes for chocolate cake	18	0.013	1402.331			
+478	victory travel fort jackson	21	0.019	3321.085			
+479	taco bell job application	35	0.027	6892.906			
+480	credit card service	35	0.008	3504.675			
+481	college career planning	28	0.004	3628.179			
+482	chase student credit card	38	0.017	2352.858			
+483	ANGELS WIFE LOVERS	20	0.019	707.315			
+484	american history figures	7	0	0			
+485	museum of nature history	7	0	4.108			
+486	history of motion pictures	8	0	4.108			
+487	gender history	8	0	4.108			
+488	federal reserve history	9	0	1442.109			
+489	coldest day in chicago history	17	0.003	10334.621			
+490	black history children	7	0	0			
+491	american legal funding	1	0	0			
+492	american pallet	1	0	0			
+493	ammunition shortage	1	0	0			
+494	An affair to remember	2	0	0			
+495	how to calculate interest earned	2	0	0			
+496	anatolian dog	9	0.004	0.5			
+497	registered dog names	6	0.003	0			
+498	recipes dog treats	6	0.003	0			
+499	fox radar	22	0.016	511.105			
+500	dog fuclkers	9	0.004	0.5			
+501	cheap dog crates	9	0.004	0.5			
+502	video that allows	3	0	0			
+503	video game images	11	0.002	389.298			
+504	video bucket	6	0	0			
+505	usb video	3	0	0			
+506	teen sex video clips	6	0	117.385			
+507	strip dancing videos	7	0	18.74			
+508	steam train videos	11	0.003	403.067			
+509	how to make a highlight video	22	0.003	3916.311			
+510	first dance video	16	0.002	260.073			
+511	download free computer video games	15	0.002	286.685			
+512	black booty video	15	0.001	190.502			
+513	best video player	19	0.006	1345.855			
+514	red tube free sex video	15	0.011	699.01			
+515	ov video	14	0.011	443.379			
+516	me estas tentando video	16	0.018	453.653			
+517	riordan manufacturing inc company	6	0.003	78.73			
+518	how to settle credit card debt yourself	26	0.005	1018.531			
+519	angel lo la luv	7	0.007	0.55			
+520	neil simon theatre	16	0.02	1447.893			
+521	martin webb	7	0.006	12.809			
+522	george lopez daughter	21	0.018	49.551			
+523	david michael	7	0.002	2881.49			
+524	LB WHITE	21	0.019	56.975			
+525	Animal rescue	5	0.001	0			
+526	texas dachshund rescue	12	0.012	622.572			
+527	educated animal rescue and teen haven	6	0.001	42.803			
+528	colorado pug rescue	22	0.02	1326.619			
+529	colorado golden retriever rescue	7	0.004	153.699			
+530	ankle injury treatment	2	0	0			
+531	Cancer Treatment Center of America	29	0.017	7282.634			
+532	ann taylor toyota	1	0	0			
+533	anna taylor loft	26	0.025	1763.884			
+534	june taylor dancers	1	0	0			
+535	aunt peg clips trailers	39	0.034	637.755			
+536	yankee pot roast recipes	42	0.042	3181.134			
+537	wasabi root	10	0.011	101.542			
+538	the time things	1	0.001	0			
+539	rise of the mushroom kingdom	2	0.001	0			
+540	pork pie snare	15	0.009	3390.325			
+541	junkyard jump game	10	0.002	348.878			
+542	heritage face recognition	9	0.002	43.258			
+543	creamy chicken and wild rice soup	21	0.002	2348.112			
+544	cheat codes for gta vice city	30	0.017	2126.367			
+545	antique drop leaf table	10	0.005	998.306			
+546	Oceanic Time Warner	5	0.001	1.972			
+547	eye witness news	13	0.01	33.447			
+548	west side story soundtrack	15	0.012	1828.306			
+549	bass pro shop locator	30	0.03	418.731			
+550	orange juice and vodka	14	0.004	2559.604			
+551	vitamin k shot	17	0.012	285.14			
+552	monster jam pc cheats	19	0.018	267.752			
+553	i love you in korean language say a	24	0.017	62.334			
+554	free mario game download for pc	27	0.021	433.333			
+555	family guy voice	13	0.006	911.522			
+556	leisure time entertainment	11	0.002	932.349			
+557	CHASE CREDIT CARD SERVICES	27	0.006	4895.074			
+558	annete dawn	1	0	0			
+559	antik denim jeans for men	1	0	0			
+560	bible in a year	5	0	1447.341			
+561	apa citation internet	5	0.003	0			
+562	new internet explorer downloads	17	0.02	937.722			
+563	tiger woods blog	4	0.007	0			
+564	tagalog sex stories	11	0.008	1435.353			
+565	skull box	9	0.011	32.849			
+566	myspace comment box generators	3	0.004	0			
+567	hitman sex scene	28	0.014	11633.706			
+568	free abode flash player	20	0.023	702.724			
+569	duncan gun shop	36	0.036	478.415			
+570	dove body wash coupons	7	0.007	547.735			
+571	chevy cobalt body kits	19	0.018	1505.555			
+572	buy house	8	0.01	1.157			
+573	bra shoulder pads	14	0.013	28.181			
+574	body composition test	21	0.013	2211.097			
+575	bob's business	10	0.007	3313.335			
+576	baby panda pictures	25	0.017	172.071			
+577	aquarium baby swing	31	0.028	350.482			
+578	sex offender california	38	0.042	857.17			
+579	apex gear	13	0.012	21.783			
+580	library of thumbs sex	13	0.008	1975.37			
+581	jefferson county texas	91	0.071	6998.759			
+582	family guy cast list	20	0.01	1694.606			
+583	wayne brady ordinary	15	0.016	14.886			
+584	chenal pet palace	55	0.05	1730.423			
+585	dynamic fitness center	9	0.002	313.019			
+586	horse woman sex	52	0.036	2033.128			
+587	vista blue screen	2	0.001	57.91			
+588	safest seat on an airplane	7	0.006	50.647			
+589	apple bottom asses	3	0	5.836			
+590	old apple computer	8	0.008	2224.105			
+591	recipe for bottom round roast	18	0.007	3937.262			
+592	applebee's job application	12	0.003	234.692			
+593	job opportunities overseas	8	0.002	32.053			
+594	how to airbrush real flames paint job	8	0.002	32.053			
+595	have trouble while using this application	5	0.001	2.429			
+596	free good job clip art	8	0.002	32.053			
+597	yahoojobs job search	20	0.003	8184.5			
+598	recent job cuts in america	4	0.002	48.893			
+599	free math homework help online	38	0.006	11355.152			
+600	applet download	3	0	0			
+601	download unix	6	0	258.647			
+602	free ares software download music	23	0.002	7081.324			
+603	apply at ross	1	0	0			
+604	reasons to have a baby	11	0.006	1070.49			
+605	modern indian baby names	8	0.006	0			
+606	baby tips	10	0.006	0.35			
+607	baby humidifiers	10	0.006	0.35			
+608	baby week	10	0.009	3.657			
+609	baby school	18	0.008	1037.691			
+610	pc clock	28	0.036	1202.016			
+611	cay va gio	83	0.066	1856.795			
+612	arabic live tv	12	0.009	14.283			
+613	expresso tv stands	12	0.009	14.283			
+614	direct tv remotes	12	0.009	14.283			
+615	arbitron inc	1	0.002	0			
+616	arbor guitar	13	0.015	10.186			
+617	heath ledger actor	21	0.016	490.731			
+618	argon chip	5	0.001	30.291			
+619	too much iron in blood	8	0.003	1851.687			
+620	side effects of carbon monoxide	3	0.002	26.88			
+621	arizona sex offenders	12	0	31.7			
+622	videos of teens having sex	5	0	0			
+623	top sex toys	5	0	0			
+624	sex tuys	5	0	0			
+625	sex poditions	5	0	0			
+626	philippine sex scandals	5	0	0			
+627	indian sex stores	12	0	31.7			
+628	girls that love sex	12	0	31.7			
+629	free hot sex pictures	12	0	31.7			
+630	ARKANSAS DEPARTMENT OF HEALTH	1	0	0			
+631	weather mesa arizona	10	0.014	67.633			
+632	map of springfield	17	0.025	15.789			
+633	city of lincoln ca	25	0.022	62.182			
+634	texas condos	13	0.018	6.474			
+635	windsor hotel philadelphia	18	0.024	96.844			
+636	hospice of cincinnati	17	0.023	16.006			
+637	edwards cinema fresno california	23	0.028	56.967			
+638	edwards cinema boise	15	0.018	10.191			
+639	crit city store	45	0.038	517.522			
+640	my campus phoenix	14	0.018	0			
+641	halifax shopping centre	27	0.023	3347.828			
+642	crown plaza toronto	32	0.03	47.923			
+643	city of temple texas jobs	88	0.054	5611.742			
+644	value city store locations in illinois	46	0.052	684.535			
+645	midland county courts	23	0.022	225.311			
+646	lewis county tennessee	22	0.02	196.063			
+647	Gaston County	28	0.029	316.025			
+648	night clubs in chicago illinois	24	0.029	384.337			
+649	hawaii information system	20	0.028	122.279			
+650	old town albuquerque	31	0.031	198.296			
+651	BALTIMORE SUN	15	0.017	24.146			
+652	arma patch	3	0.002	0			
+653	patch knife	8	0.012	58.724			
+654	vichy france map	20	0.028	24.235			
+655	schucks auto parts store	21	0.021	602.046			
+656	mountain view california map	22	0.022	471.856			
+657	giants fan	7	0.007	0.61			
+658	free cip art	7	0.003	9.654			
+659	art people	7	0.003	9.654			
+660	arson fat burner reviews	32	0.025	663.298			
+661	pulsar star	15	0.019	47.143			
+662	c&m auto sales	26	0.018	786.558			
+663	aryanpour dictionary online	1	0	0			
+664	steak express	1	0	0			
+665	oreo truffle recipe	7	0	50.757			
+666	easy roast chicken recipe	18	0.001	2432.686			
+667	cuban flan recipe	15	0.006	2153.333			
+668	butter cookie recipe	19	0.004	2079.779			
+669	Assisted living facilities	3	0	1438			
+670	living in a loveless marriage	1	0	0			
+671	assumption school in san leandro	4	0	0			
+672	Wyoming Public Schools	23	0.001	143.089			
+673	Curriculum Exchange Intermediate School	20	0.003	3687.768			
+674	valley forge towers north	7	0.008	106.627			
+675	uk phone directory	10	0.014	8.035			
+676	the office nbc pennsylvania city	10	0.012	9.046			
+677	surfboard hacker	7	0.013	0			
+678	sheraton manhattan times square	5	0.01	0			
+679	sf ferry building	3	0.005	0			
+680	puma clothing accessories & shoes	9	0.013	182.97			
+681	paintball rifle	13	0.015	13.832			
+682	old winchester shotguns	3	0.006	0			
+683	no shelter lyrics	1	0.002	0			
+684	new orleans radio station	1	0.002	0			
+685	mirror's edge cheats	7	0.008	4.07			
+686	khan obgyn dover	6	0.008	25.809			
+687	keene colonial theater	1	0.002	0			
+688	hyvee grocery store	30	0.025	4434.614			
+689	dodge magnum engine	17	0.016	728.99			
+690	dodge city paintball	25	0.018	1173.891			
+691	condos for rent in florida	11	0.011	14.422			
+692	carrier thermostat	10	0.014	1017.05			
+693	baton rouge hotels	28	0.022	4495.209			
+694	philadelphia style magazine	9	0.012	3.268			
+695	San Jose Animal Shelter	2	0.002	0			
+696	oakland flea market	10	0.017	7.871			
+697	flower memorial library	12	0.013	123.552			
+698	Muncie Public Library	9	0.012	25.036			
+699	silver mountain winery	8	0.009	145.851			
+700	hard disk dvd recorder	40	0.031	5444.901			
+701	Hearst Castle	4	0.006	0			
+702	www mobile d	16	0.022	152.768			
+703	Georgia child support	12	0.015	606.458			
+704	FRANKLIN HOSPITAL	10	0.015	0			
+705	FORD THEATER	15	0.021	13.189			
+706	Displays Fabric Displays Modular Displays Truss	7	0.006	7.359			
+707	frank kent motor company	20	0.014	541.759			
+708	department store makeup lawsuit	35	0.028	2406.766			
+709	jessica simpson daisy duke picture	27	0.029	1598.367			
+710	circuit breaker program	13	0.017	21.293			
+711	DOUGLAS TIRES	9	0.013	0			
+712	wamu theatre at madison square garden	8	0.012	99.854			
+713	Bozeman Daily Chronicle	4	0.006	0			
+714	sheet music for flute	9	0.004	1555.013			
+715	red mountain resort	14	0.013	276.021			
+716	attend this years events	1	0	0			
+717	polaris plow mount	4	0.002	24.992			
+718	wolf auto group	3	0.001	0.2			
+719	trojan auto parts michigan	2	0.001	0			
+720	autozone houston	1	0	0			
+721	average waist size	2	0	0			
+722	ed hardy plus size clothes	26	0.015	5905.929			
+723	avery research center	8	0.001	157.451			
+724	hoover service center	12	0.001	517.794			
+725	celebration center	8	0.001	14.631			
+726	Troy Sports Center	8	0.002	432.074			
+727	Condell Medical Center	4	0	0			
+728	avgfree edition	1	0	0			
+729	ymca camp greenville	3	0.003	0			
+730	map of south carolina counties and cities	2	0.003	0.114			
+731	karachi pakistan map	2	0.003	0.114			
+732	free room layout design	7	0.004	709			
+733	Post Office Nearest	12	0.009	22.689			
+734	Pearl Jam lyrics	8	0.007	4.347			
+735	www.good day sacramento	1	0.002	0			
+736	wedding flower centerpiece	3	0.002	1.042			
+737	walmart hours new years day	1	0.002	0			
+738	valentimes day	5	0.002	0			
+739	thuy top's blog	5	0.006	9.209			
+740	sky pigeon	4	0.005	0.287			
+741	secret shopper scams	1	0.002	0			
+742	rachelle ray	1	0.002	0			
+743	portuguese lady	2	0.003	0			
+744	places to go on valentine's day	11	0.005	928.605			
+745	pay per view boxing margarito	2	0.002	0			
+746	nebraska golden sower	1	0.002	0			
+747	naf pay website	2	0.002	0			
+748	mother goose rhymes	2	0.003	0			
+749	mod be	7	0.007	3105.985			
+750	mercer raceway	3	0.006	0			
+751	jay leno guests	1	0.002	0			
+752	inaugural day schedule	12	0.003	1024.663			
+753	groundhog day	6	0.002	0			
+754	graco baby einstein exersaucer	1	0.002	0			
+755	free lab tops	4	0.004	4.264			
+756	free family guy porn clips	10	0.006	1709.807			
+757	flower logos	3	0.002	0			
+758	entry way	5	0.003	24.585			
+759	dueche bag	3	0.004	0			
+760	day thi.net	1	0.002	0			
+761	cartoon of the day	12	0.003	1722.902			
+762	captain planet	8	0.008	1441.244			
+763	border collie poodle mix	30	0.028	1337.818			
+764	bluetooth pass key	9	0.006	97.134			
+765	bb king.com	3	0.003	7.867			
+766	bank rapsy	1	0.002	0			
+767	watch pay per view free	6	0.006	42.094			
+768	The Perfect Dog	8	0.009	0			
+769	Racheal Ray Show	4	0.002	8.373			
+770	marine officer mos	7	0.006	112.423			
+771	beef pepper steak	12	0.008	1477.373			
+772	Ocean Pointe Suites at Key Largo	9	0.008	21.602			
+773	Scott County	25	0.011	728.047			
+774	Monroe County Beacon	20	0.008	284.231			
+775	sealy mattress co	12	0.015	20.358			
+776	he is just not into you book	30	0.029	376.256			
+777	goodnight mr tom	33	0.029	185.454			
+778	ed hardy helmet	6	0.006	7.269			
+779	scott reich attorney	9	0.009	147.138			
+780	paul harvey riddle	11	0.013	60.827			
+781	monroe lotus notes	10	0.009	67.494			
+782	meredith emerson	7	0.009	0			
+783	jacob the liar	13	0.013	74.13			
+784	gran patron	13	0.011	40.265			
+785	did heath ledger finish batman	17	0.014	1816.167			
+786	blueberry pomegranate	9	0.007	0.269			
+787	Fry Daddy	10	0.008	12.586			
+788	Frank sinatra	20	0.017	103.544			
+789	david blade	12	0.009	328.683			
+790	Children Place	17	0.017	1869.146			
+791	shepard center	7	0.003	4711.06			
+792	wow workout world	7	0.008	1484.831			
+793	super bowl pregame show	2	0.002	2.544			
+794	Brook White	5	0.003	0.833			
+795	free online adding machine calculator	7	0.004	1585.171			
+796	lyre bird	3	0.002	1.157			
+797	berlin game	9	0.003	56.648			
+798	texas wic office locations	7	0.009	5.825			
+799	texas aquifers	4	0.004	0			
+800	target stores san antonio texas	4	0.004	0			
+801	social security texas	4	0.004	0			
+802	scary places in texas	4	0.004	0			
+803	mexia texas newspaper	6	0.007	0.142			
+804	coyote track	5	0.003	2.922			
+805	new haven school district	11	0.002	35.686			
+806	crete monee school district	12	0.003	35.686			
+807	creighton school district	12	0.003	35.686			
+808	corry school district	12	0.003	35.686			
+809	chippewa local school district	12	0.003	35.686			
+810	Grossmont Union High School District	28	0.006	1449.976			
+811	bagel calorie	1	0	0			
+812	baked brie cheese recipes	1	0	0			
+813	baking tools and their uses	1	0	0			
+814	bamboo window blinds	1	0	0			
+815	banana paper making	12	0.003	858.08			
+816	what is a essay paper	2	0	0			
+817	scrapbooking and card making	4	0.002	24.834			
+818	japanese rice paper	17	0.005	3975.015			
+819	free prayer shawl pattern	8	0.004	66.276			
+820	place making	5	0.001	12.344			
+821	banda m s	73	0.031	1317.491			
+822	yamaha v star accessories	7	0.009	0.527			
+823	xxx l	13	0.009	7.573			
+824	word that start with q	20	0.013	1130.895			
+825	wb store	12	0.013	171.731			
+826	sinonimos en ingles	5	0.005	0			
+827	sc arts commission	11	0.01	5.017			
+828	sa's club	13	0.008	1248.913			
+829	nissan gtr vs corvette	6	0.007	0			
+830	nissan gt r price	5	0.005	0			
+831	mr rourke fantasy island	7	0.009	5.008			
+832	mail yandex ru	8	0.01	2.834			
+833	lexapro vs effexor	4	0.003	0			
+834	laser x	9	0.011	0.088			
+835	judo gi	21	0.013	183.01			
+836	j crew children	23	0.013	42.744			
+837	j beats	14	0.009	4.332			
+838	irs schedule se	29	0.017	3149.561			
+839	ip tracking software	22	0.012	4796.482			
+840	how to tune to drop c	16	0.013	7.595			
+841	florida a&m basketball	19	0.011	2360.775			
+842	el omega	23	0.014	275.646			
+843	dell mx	27	0.022	118.816			
+844	coventry cu	25	0.014	522.891			
+845	color k	24	0.015	55.593			
+846	malcolm x community college	17	0.009	632.226			
+847	f&a fcu credit union	38	0.016	1726.378			
+848	david z shoes new york	44	0.024	6020.82			
+849	Regulation R	18	0.012	32.984			
+850	MV Longchamp	9	0.006	1.782			
+851	LOUD N CLEAR	16	0.012	11.562			
+852	pc management	8	0.008	481.944			
+853	Project Risk Management	13	0.001	3065.923			
+854	jobs in latin america	4	0.001	0			
+855	gold prospectors association of america	7	0.002	1473.811			
+856	banks that don't use chex systems	2	0	0			
+857	baptist doctrines	1	0	0			
+858	bare behind bars	1	0	0			
+859	barry u	3	0.003	0			
+860	basal lamina	1	0	0			
+861	round table pizza prices	2	0	2874			
+862	beach flowers	4	0.001	0.409			
+863	sunny beach bulgaria	8	0.01	235.32			
+864	bear creek glass	2	0	0			
+865	sea foam	2	0.001	0.395			
+866	cedar garden apartments	4	0.003	1.918			
+867	sea viper	7	0.006	41.669			
+868	gander mountain firearms	9	0.002	3.715			
+869	blue mountain coffee	9	0.002	3.715			
+870	Mountain Ranges	8	0.002	1.708			
+871	too many fish in the sea dating	8	0.007	36.613			
+872	beat the pussy up	2	0	0			
+873	eating puss	2	0	0			
+874	beauty encounter coupons	2	0	0			
+875	beauty of math	4	0	1438			
+876	death map	19	0.013	2031.513			
+877	beckley police department	16	0.003	4868.477			
+878	texas department of corrections employment	3	0	2874			
+879	salem police	1	0	0			
+880	oklahoma department of corrections	2	0	0			
+881	south carolina state department of education	10	0.008	242.384			
+882	plymouth police department	7	0.001	13.479			
+883 f	lorida department of corrections inmate population search	17	0.002	3015.338			
+884	lake city community church	20	0.008	1900.896			
+885	community action agency	26	0.003	3859.216			
+886	corned beef cabbage	2	0	0			
+887	beer potomania	1	0	0			
+888	behavioral health center	5	0	24.448			
+889	south county mental health	5	0.002	118.406			
+890	belagios pizza	3	0	1438			
+891	piccolos pizza	1	0	0			
+892	bell sensplex	1	0.001	0			
+893	bellsouth net	4	0.001	0.352			
+894	fuck net	4	0.001	0.352			
+895	beowulf poem	3	0	1438			
+896	free lesbian poems	2	0	0			
+897	Berjaya Redang Beach Resort	5	0.002	0.247			
+898	bermuda marathon	1	0	0			
+899	berserker enchant	1	0	0			
+900	best blender review	1	0	0			
+901	best crossword puzzle	2	0	0			
+902	crossword puzzle solutions	2	0	0			
+903	best energy stocks	3	0	0			
+904	iowa energy	6	0.003	630.687			
+905	clean coal energy	8	0.003	2250.297			
+906	best gps deals	4	0.003	2.969			
+907	best love novels	2	0	0			
+908	seasons of love chords	1	0	0			
+909	best professional digital camera	1	0	0			
+910	best walking shoes for babies	1	0	0			
+911	best western danville va	7	0.009	0.331			
+912	bg pop folk	1	0	0			
+913	bianca's handcuff page	3	0.002	0			
+914	bible glossary	1	0	0			
+915	lone star title loans	3	0.001	201.619			
+916	how to greet chinese new year	2	0	0			
+917	bible verses for strength	1	0	0			
+918	big black bubble butt	1	0	0			
+919	big breast teens	1	0	0			
+920	big green help . com	4	0.001	139.732			
+921	no help	2	0	0			
+922	big n rich lyrics	20	0.015	40.158			
+923	where is incheon kr	8	0.007	0			
+924	the sims castaway ds	9	0.008	36.98			
+925	la sports	8	0.008	2.491			
+926	james clayton md	19	0.013	23.116			
+927	I CALY	19	0.012	17.945			
+928	Biggest Loser Cookbook	2	0.001	0			
+929	bikram yoga nashua nh	12	0.012	11.39			
+930	billings gazette online site	5	0.004	0.759			
+931	billy squier the stroke lyrics	1	0	0			
+932	birthday cake coloring sheet	3	0	8.909			
+933	BIRTHDAY WORLD	1	0	0			
+934	bixby community center	5	0	0.585			
+935	rogue community college	13	0.003	1043.5			
+936	Southwest Tennessee Community College	25	0.005	3485.625			
+937	black cats game	10	0	84.485			
+938	yahoo twist text game	3	0	0.85			
+939	orgon trail game	3	0	0.85			
+940	care service from Microsoft	21	0.002	1759.448			
+941	storage units for sale	5	0.001	91.935			
+942	black jack betting	1	0	0			
+943	blackberry calendar software	6	0	0			
+944	free advertising software	7	0	41.608			
+945	debut software	6	0	0			
+946	Music notation software	8	0	125.397			
+947	blacks leisure	1	0	0			
+948	blair gossip girl	1	0	0			
+949	blind lifehouse	1	0	0			
+950	blue mustang	1	0	0			
+951	Blue Ridge Communications	4	0	27.944			
+952	wack job	1	0.001	0			
+953	vancrest nursing home	3	0.003	5.736			
+954	tux painting for kids	3	0.003	0			
+955	tom boonen	2	0.002	0			
+956	still of the night tab	1	0.001	0			
+957	sacamento bee	1	0.001	0			
+958	rob lowe pictures	1	0.001	0			
+959	richard todd	1	0.001	0			
+960	rhe melting pot	1	0.001	0			
+961	playstation home update	2	0.002	0			
+962	petta todd	1	0.001	0			
+963	lakeport record bee	2	0.001	0			
+964	jaelyn fox freeones	2	0.002	0			
+965	how to make wow macros	7	0.001	877.645			
+966	hot tub decks	3	0.002	0			
+967	heath tax	9	0.003	83.395			
+968	green tie	4	0.005	0			
+969	god quotes	2	0.001	0			
+970	fox la.com	2	0.002	0			
+971	electric pop	4	0.001	0			
+972	el sol de zamora.com	2	0.002	4.01			
+973	don pablo's	3	0.003	0			
+974	cool mom	8	0.004	36.945			
+975	bon ton resort langkawi	7	0.004	8.963			
+976	yates funeral home coeur d'alene idaho	5	0.005	18.818			
+977	edu web tv malaysia	29	0.029	85.257			
+978	dish network tv listings	29	0.023	910.619			
+979	Get Low	4	0.003	11.62			
+980	Bob Fosse	4	0.002	0.681			
+981	teaching business english	3	0	0			
+982	examples of different kinds of business letter	4	0	0			
+983	world quest	1	0	0			
+984	complete nora roberts book list	12	0.005	340.572			
+985	catalase test	4	0.001	0			
+986	coraline the book summary	7	0.005	42.908			
+987	toledo bend realty	1	0	0			
+988	selena song lyrics	1	0	0			
+989	new spm song	1	0	0			
+990	how to patent a song	3	0	0			
+991	flint stone	9	0.005	1464.836			
+992	download kids song	5	0.001	222.47			
+993	mix restaurant	7	0.009	60.19			
+994	curry college milton	6	0.001	280.346			
+995	boston comedy clubs	6	0.003	1.692			
+996	boston tide chart	9	0.005	64.57			
+997	botswana gazette	3	0.004	0			
+998	painesville city	6	0.007	0			
+999	kentucky citys	5	0.005	0			
+1000	jamestown city court	14	0.009	581.497			
+1001	what to do in new york city	12	0.011	3145.039			
+1002	us airways stock	10	0.016	0.09			
+1003	the william carter company shelton ct	11	0.017	28.399			
+1004	NY LOTTERY	27	0.027	50.679			
+1005	bourbonnais il	9	0.012	2.195			
+1006	boxing salvador sanchez	2	0.002	0			
+1007	nacca home	3	0.001	0			
+1008	mobile home supplies florida	3	0.001	0			
+1009	how to clean diamonds at home	11	0.005	351.848			
+1010	branson mo things to do	5	0.001	0.233			
+1011	how do you get dry bowser in mario kart wii	8	0.001	3201.381			
+1012	do running	5	0.001	0.233			
+1013	brass hardware	4	0.001	5.224			
+1014	hardware firewall	3	0.001	0			
+1015	breaking benjamin phobia	1	0	0			
+1016	breast gain plus	3	0	0			
+1017	free printable gain coupon	4	0	19.687			
+1018	brewton alabama zip code	24	0.015	463.763			
+1019	carmel valley zip code	20	0.013	153.681			
+1020	switzerland postal code	6	0.003	9.412			
+1021	search html code	14	0.005	852.798			
+1022	holland country code	19	0.008	402.266			
+1023	Idaho Code	9	0.003	8.607			
+1024	brief introduction	1	0	0			
+1025	Bringing Professional Women Together Online	4	0.002	5.606			
+1026	bristol chamber	1	0	0			
+1027	broken heart quotes	2	0	0			
+1028	heart parts	2	0	0			
+1029	brookland baptist church	1	0	0			
+1030	brothers in arms hell's highway	1	0	0			
+1031	browser refresher	1	0	0			
+1032	buddhist sanskrit symbols	1	0	0			
+1033	Buena Vista Winery	1	0	0			
+1034	BUREAU OF INDIAN AFFAIRS	1	0	0			
+1035	busty grannies	1	0	0			
+1036	yahoo uk ireland games	4	0.008	0			
+1037	psychology book club	5	0.003	633.141			
+1038	pics of rock bands	1	0.002	0			
+1039	peanut butter recall?	2	0.002	0			
+1040	once on this island	2	0.002	0			
+1041	manal kitchen recipes	2	0.004	0			
+1042	kitchen company	4	0.005	0.535			
+1043	john lobb bootmaker	3	0.002	0			
+1044	delta dental of rhode island	2	0.002	0			
+1045	John Black	4	0.003	6.726			
+1046	chicken teriyaki sauce	12	0	253.935			
+1047	buxom beauties	1	0	0			
+1048	buy cheap fireworks online	6	0	0.25			
+1049	where to buy ipecac syrup	4	0	0			
+1050	where to buy dragon fruit	4	0	0			
+1051	buy plane ticket	11	0.004	7461.658			
+1052	buy obama sneakers	6	0	0.25			
+1053	buy keytar	6	0	0.25			
+1054	no contract cell phone plans	3	0.001	11.632			
+1055	look up family tree	4	0.001	4.089			
+1056	Cake decorating	4	0.002	0			
+1057	cal pump	1	0	0			
+1058	calculate ups rates	1	0	0			
+1059	"calendar ""Chinese New Year"	2	0	0			
+1060	When is Chinese New Year?	2	0	0			
+1061	california mission san francisco de solano	2	0.001	0			
+1062	california repo laws vehicle	6	0.005	0			
+1063	crime scene clean up training	18	0.002	3518.055			
+1064	Price of Gold	3	0	1438			
+1065	north carolina board of occupational therapy	3	0.002	3.883			
+1066	jefferson county real estate	25	0.011	213.78			
+1067	springfield regional school of nursing	9	0.001	106.201			
+1068	cambell ford	1	0	0			
+1069	indiana county snow emergencies	16	0.004	64.822			
+1070	cameron diaz hairstyle	1	0	0			
+1071	camping mattresses	1	0	0			
+1072	can you watch tv online	6	0.005	1438.098			
+1073	what to watch	1	0	0			
+1074	canada drug stores	3	0	0			
+1075	herpes drug	3	0	0			
+1076	drug sites	3	0	0			
+1077	canada revenue agency jobs	5	0.001	1486.384			
+1078	guam dept of revenue and taxation	2	0	0			
+1079	canadian cancer society lottery	9	0.001	3095.529			
+1080	style career	4	0.001	79.077			
+1081	past texas lotto results texas lottery results	2	0	1438			
+1082	navy marine corps relief society san diego	3	0	103.675			
+1083	canasta cards	1	0	0			
+1084	canby ford	1	0	0			
+1085	cancelled spelling	1	0	0			
+1086	cancer deaths	1	0	0			
+1087	cash america	4	0.001	22.654			
+1088	candle brands	1	0	0			
+1089	cape may realty	4	0.001	6.637			
+1090	the cape	2	0.001	0			
+1091	single parent travel	1	0	0			
+1092	capital of indiana	3	0	1438			
+1093	what is the capital of china	1	0	0			
+1094	planet bleach	1	0	0			
+1095	captive insect	1	0	0			
+1096	valet parking services	1	0.001	0			
+1097	oscar best picture list	8	0.006	129.205			
+1098	global warming picture	4	0.003	0.729			
+1099	mark mudd jr	7	0.009	7.944			
+1100	Watch Warning Advisory Summary	14	0.005	3084.72			
+1101	CARD READERS	1	0	0			
+1102	what to say in a sympathy card	2	0.001	0			
+1103	the cave that talked	1	0.001	0			
+1104	smu football camp	2	0.001	3.864			
+1105	premier card	2	0.001	0			
+1106	novy cas sk	2	0.001	0			
+1107	make a card for free	5	0.001	279.216			
+1108	government waste	3	0.001	0			
+1109	electronic greeting card	5	0.001	4.704			
+1110	civil service exam books	20	0.001	7625.622			
+1111	metropark clothing	1	0.001	0			
+1112	famous stars and stripes clothing	3	0.001	0			
+1113	carrier builder jobs	3	0	1.048			
+1114	sharmusic store	4	0.003	0			
+1115	old forge sport tours	2	0.002	24.498			
+1116	controling high blood pressure	6	0	163.946			
+1117	my horoscope for today	3	0	1438			
+1118	catalog of things that need to be invented	5	0.001	1940.038			
+1119	when will i get my taxes back	5	0	143.972			
+1120	requirements to be a teacher	2	0	2.845			
+1121	cathay cineleisure singapore	8	0.008	0.127			
+1122	catholic globe	1	0	0			
+1123	causes of gout joints swelling	1	0	0			
+1124	cawthra park secondary school	5	0.003	6.826			
+1125	wic ny	5	0.01	0			
+1126	la palabra viva	8	0.01	0.031			
+1127	celeb blow jobs	1	0	0			
+1128	CELEBRITY SMACK	1	0	0			
+1129	walmarts phone number	1	0.001	0			
+1130	global tell	2	0.001	0			
+1131	custom photo birth announcements	5	0.003	13.389			
+1132	cell porn	6	0.002	0			
+1133	quick loans no credit check	11	0.001	0.82			
+1134	eloan line of credit	24	0.003	1957.293			
+1135	central cyanosis	1	0	0			
+1136	central valley jobs	4	0.001	0.891			
+1137	valley med	2	0.001	0			
+1138	cervical cyst	1	0	0			
+1139	channel13eyewitnessnews houston	7	0.005	1.692			
+1140	charter communications employment opportunities	3	0	1438			
+1141	virgina employment	1	0	0			
+1142	WALMART GIFT CARDS	2	0	0			
+1143	chateau lemoyne new orleans	1	0	0			
+1144	yellowstone volcano	1	0	0			
+1145	tunica mississippi	1	0	0			
+1146	palm pilot desktop software download	11	0.007	2572.366			
+1147	Stoney River	1	0	0			
+1148	Cumberland River	3	0.001	0			
+1149	cheap auto insurance online	2	0	0			
+1150	cheap big johnson t-shirts	1	0	0			
+1151	CHEAP CAMCORDERS	1	0	0			
+1152	cheap fitness clothes	2	0	0			
+1153	windsor life	1	0	0			
+1154	travis schuldt official site	2	0.003	0			
+1155	hilton tmtp site	2	0.003	0			
+1156	cheats for naruto ultimate ninja heroes	1	0	0			
+1157	cheerleader dad commercial	1	0	0			
+1158	chef software	4	0	0			
+1159	the pink palace	2	0.002	0			
+1160	chenille socks	1	0	0			
+1161	chevy crossover vehicles	2	0	0			
+1162	rhodes frozen bread dough	4	0	6.549			
+1163	poppy seed chicken	5	0	0			
+1164	jamaican chicken curry	7	0	37.427			
+1165	food pyramid diet	20	0.004	5919.346			
+1166	chocolate chicken	11	0	652.399			
+1167	child learning	2	0	0			
+1168	the problem child	2	0.001	0			
+1169	langham place	1	0	0			
+1170	jack place	11	0.006	410.418			
+1171	wedding restaurant	3	0.002	1.013			
+1172	tuckers st louis restaurant	2	0.001	0			
+1173	gusto's restaurant	6	0.003	3.841			
+1174	china motorcycles	1	0	0			
+1175	chinese symbol meanings	1	0	0			
+1176	gold rush chicken	3	0	0			
+1177	chocolate rice crispy treats	7	0	16.345			
+1178	chop off	2	0.001	0			
+1179	CHRIS BROWN PICTURES	1	0	0			
+1180	Christian Tattoos	1	0	0			
+1181	Christmas poems	1	0	0			
+1182	chrome country	4	0	0			
+1183	k105 country	3	0	0			
+1184	country images	4	0	0			
+1185	country couches	4	0	0			
+1186	chrome rims for cars	1	0	0			
+1187	church of jacksonville	5	0.002	2.302			
+1188	church of the atonement chicago	6	0.001	12.507			
+1189	free easter plays for church drama	6	0.001	65.563			
+1190	cincinnati clerk of courts	13	0.012	35.998			
+1191	Hillsborough County Clerk of Court	20	0.006	292.357			
+1192	citizen soldier national guard	2	0	0			
+1193	mo guard	1	0	0			
+1194	weather in milan	3	0.002	542.245			
+1195	us fault lines	5	0.01	0			
+1196	unity magazine	2	0.002	16.384			
+1197	rockford raleigh	1	0.002	0			
+1198	old chicago nutrition	2	0.004	0			
+1199	national weather service tulsa	5	0.003	802.152			
+1200	making it better	2	0.004	0			
+1201	linkdomain:mail.google.com site:dmoz.org	1	0.002	0			
+1202	jeddah weather	11	0.004	2460.475			
+1203	framing hanley hear me now	9	0.012	1.137			
+1204	former yugoslav republic of macedonia	3	0.003	1.151			
+1205	dmvlv nv	7	0.011	0.331			
+1206	concord steel	3	0.002	1438			
+1207	ciurt city	2	0.003	0			
+1208	city of victorville ca	2	0.003	0			
+1209	city of osceola	2	0.003	0			
+1210	city of lynwood jobs	2	0.003	0			
+1211	addison	3	0.006	0			
+1212	MCKINNEY	3	0.006	0			
+1213	Saturn of Wausau	2	0.002	0			
+1214	Honda Mall of Georgia	9	0.009	2.573			
+1215	the times news hendersonville nc	7	0.013	0			
+1216	texas wic online classes	1	0.001	0			
+1217	texas hold em free online	1	0.001	0			
+1218	service gov	1	0	0			
+1219	faa medical exam	2	0	0			
+1220	discount foam	4	0	2875			
+1221	rivers edge golf course	6	0	75.638			
+1222	lpga international golf course	6	0	75.638			
+1223	great white shark kayak	5	0.002	0.119			
+1224	classic lotto numbers	2	0	0			
+1225	classroom central	1	0	0			
+1226	clavier arabe google	1	0	0			
+1227	energy assistance programs	2	0	0			
+1228	cleaner image	1	0	0			
+1229	cleaning brushes	1	0	0			
+1230	click on detroit	1	0	0			
+1231	vintage skateboards for sale	1	0.001	0			
+1232	used chevy pickup trucks for sale	1	0.001	0			
+1233	usa mobility pager	2	0.002	0			
+1234	closing restaurants	1	0	0			
+1235	imported adult diapers	2	0.001	0			
+1236	elvis costume	2	0.001	0			
+1237	club palladium	9	0.001	1491.12			
+1238	scores night club	1	0	0			
+1239	fuller's club	6	0.001	1438.278			
+1240	dance club songs	8	0.001	1481.162			
+1241	rivas restaurant	1	0.001	0			
+1242	pompei restaurant	1	0.001	0			
+1243	fanatico restaurant	1	0.001	0			
+1244	cnc plasma table	1	0	0			
+1245	coast guard myspace layouts	2	0	0			
+1246	Cobb Community Transit	3	0	0			
+1247	official payment corp	3	0.002	80.855			
+1248	discount sectional sofa	2	0.002	0			
+1249	cool signatures	2	0.002	0			
+1250	cocos japan	1	0	0			
+1251	history and origin of basketball	8	0	1173.971			
+1252	list of college colors and mascots	9	0.002	413.02			
+1253	combat handguns	1	0	0			
+1254	commercial outdoor lighting	2	0	0			
+1255	outdoor shoes	1	0	0			
+1256	neoseeker action replay codes	1	0	0			
+1257	mauser action	2	0.001	33.503			
+1258	light camera action	1	0	0			
+1259	the colony little league	4	0	187.939			
+1260	portage community schools	9	0.001	68.89			
+1261	compressor surge	1	0	0			
+1262	computer freeze up	3	0	0			
+1263	hooking computer up to tv	6	0.001	126.565			
+1264	comunity college of philadelphia	3	0	0			
+1265	conan o'brien tonight show	1	0	0			
+1266	concord autoplex irving	1	0	0			
+1267	steel rolling	1	0	0			
+1268	con-crete creatine	1	0	0			
+1269	conditioning exercises	1	0	0			
+1270	contact point border collies	2	0.001	0			
+1271	continental divide colorado	3	0.001	2874			
+1272	filing bankruptcy in colorado	3	0	1438			
+1273	gunshot victims spurting blood	3	0	0			
+1274	converting decimal to binary	1	0	0			
+1275	COOKIE JAR	1	0	0			
+1276	super mario kart online game	1	0	0			
+1277	free scrabble online game	8	0	1556.237			
+1278	cooking light search recipes	4	0	2875			
+1279	www.zaba search	1	0	0			
+1280	vancouver wa mls search	1	0	0			
+1281	natick ma	5	0.005	35.541			
+1282	golds gym salem ma	11	0.009	57.925			
+1283	cordless hair straighteners	1	0	0			
+1284	corvette tops	1	0	0			
+1285	Cosmetics Settlement	1	0	0			
+1286	cotton slippers	1	0	0			
+1287	CRAIGSLIST NEW HAMPSHIRE	1	0	0			
+1288	crain chevrolet little rock	1	0	0			
+1289	crawfish shack	1	0	0			
+1290	you tube line rider	3	0	16.128			
+1291	hcg in urine	7	0.003	78.566			
+1292	d drive	19	0.014	288.11			
+1293	credco instant merge credit report	15	0.002	39.798			
+1294	cricket most first class centuries	1	0	0			
+1295	registered nurse training	1	0	0			
+1296	philadelphia phillies spring training schedule	4	0	58.415			
+1297	online personal training	1	0	0			
+1298	crochet bathing suits patterns	1	0	0			
+1299	currency exchange	3	0	0			
+1300	social exchange theory relationship	2	0	0			
+1301	current white house staff	4	0.002	100.574			
+1302	oc court house	3	0	40.181			
+1303	starting an after school program	12	0.001	1129.046			
+1304	is there school tomorrow?	15	0.001	27.388			
+1305	gear up program high school	19	0.001	1369.591			
+1306	curvy bodies	1	0	0			
+1307	custom slipcovers	1	0	0			
+1308	cvs coupon	4	0.001	139.363			
+1309	cyberlink power dvd update	3	0.002	1.074			
+1310	daily nigger	1	0	0			
+1311	orangeburg county	4	0.002	0			
+1312	thurston county sheriff	5	0.002	0			
+1313	hancock county ohio humane society	16	0.005	128.046			
+1314	southwestern yacht club	1	0	0			
+1315	data released today	2	0	0			
+1316	Data were collected	1	0	0			
+1317	David Dudley Field	2	0.001	0			
+1318	rooster illusion	1	0.001	0			
+1319	peaks of otter lodge	1	0.001	0			
+1320	michael zimmerman	1	0	0			
+1321	michael cheney	1	0	0			
+1322	nicole miller new york	2	0	0			
+1323	new mexico work connection	3	0.002	130.522			
+1324	davids salon in the philippines	1	0	0			
+1325	daycare logos	1	0	0			
+1326	decorative music notes	7	0	0			
+1327	hous music	7	0	0			
+1328	free metal music	11	0.003	2394.415			
+1329	free instrumental gospel music	12	0.001	1701.233			
+1330	ferret music	7	0	0			
+1331	dedicated micros.com	1	0	0			
+1332	define desolate	1	0	0			
+1333	definition of anatomical	7	0	0.75			
+1334	vision definition	4	0	0			
+1335	reprieve definition	4	0	0			
+1336	punitive definition	4	0	0			
+1337	inauguration definition	9	0	2875.75			
+1338	definition of peered	7	0	0.75			
+1339	demi moore plastic surgery pictures	1	0	0			
+1340	demo stores	1	0	0			
+1341	demon tweeks motorcycle	2	0	0			
+1342	menards employee schedule	3	0	2.306			
+1343	the contractors school	6	0	0			
+1344	st joseph high school	1	0	0			
+1345	schenectady christian school	6	0	0			
+1346	morristown west high school	6	0	0			
+1347	memorial high school victoria tx	6	0	0			
+1348	james caldwell high school	12	0	2.458			
+1349	high school speeches	12	0	2.458			
+1350	PRINCIPAL BUSINESS CODES	8	0.001	180.998			
+1351	uk met office weather forecast	3	0.003	28.171			
+1352	top line furniture	3	0.003	36.02			
+1353	sc unemployement office	1	0.001	0			
+1354	office gamespot	1	0.001	0			
+1355	legacy traditions furniture	1	0.001	0			
+1356	tx unemployment office	3	0.003	0.516			
+1357	desktop winter backgrounds	3	0.001	0.691			
+1358	devino road concepts	1	0	0			
+1359	dexter shoes stores location	2	0.001	0			
+1360	diccionario english	2	0	0			
+1361	korean to english	1	0	0			
+1362	imdb batman returns	2	0	0			
+1363	DIRECT Project Homepage	2	0	0			
+1364	ymca military discount	1	0	0			
+1365	with discount prices	1	0	0			
+1366	wireless network hacks	4	0.003	0			
+1367	how to create a wireless network	6	0.003	29.912			
+1368	disney for military	2	0.001	0			
+1369	disneyland season passes	1	0	0			
+1370	lion king soundtrack	4	0.005	2.715			
+1371	disturbed song lyrics	1	0	0			
+1372	diva invitations	2	0	0			
+1373	dj rondon	4	0.005	0.093			
+1374	DMC embroidery thread	1	0	0			
+1375	do bananas have calcium	4	0	7.099			
+1376	why does asparagus make your pee smell	5	0.002	601.99			
+1377	do not enter signs	2	0	0			
+1378	documentation that describes such	1	0	0			
+1379	dodge motor	3	0	0			
+1380	domestic violence statistics	1	0	0			
+1381	Penney Life Insurance	3	0	0			
+1382	don't go changing	4	0.001	0			
+1383	go lsn .com	4	0.001	0			
+1384	don't let the bastards get you down	1	0	0			
+1385	download ayat seribu dinar mp3	1	0	0			
+1386	free hawaiian music download	10	0.001	420.46			
+1387	download new ie	3	0.002	0.499			
+1388	download symantec virus definition	2	0	0			
+1389	downloadable scientific calculator	1	0	0			
+1390	dream guitar	2	0.001	0			
+1391	dress up who .com	1	0	0			
+1392	ductless heat pump	1	0	0			
+1393	dulce de leche cake	1	0	0			
+1394	shaun the sheep dvd	6	0.004	8.984			
+1395	eagle claw kung fu	1	0	0			
+1396	Earn miles with American	1	0	0			
+1397	Earth Treks	1	0	0			
+1398	eastfeild college	5	0	0.2			
+1399	easy knitted shrug	1	0	0			
+1400	easy light desserts	1	0	0			
+1401	ebay clock	2	0.001	0.507			
+1402	teens ms	1	0	0			
+1403	sears driver's ed	1	0	0			
+1404	maltese size	1	0	0			
+1405	edenpure store	1	0	0			
+1406	edmonds performing arts center	4	0	2875			
+1407	williamston agricultural center	1	0	0			
+1408	southern hills medical center	1	0	0			
+1409	effects of erosion	1	0	0			
+1410	ekg machines	1	0	0			
+1411	el cartel soundtrack	2	0	0			
+1412	electric flight	1	0	0			
+1413	electrolux washer and dryer reviews	2	0	0			
+1414	elizabeth cervantes	1	0	0			
+1415	funny auto repair slogans	3	0.001	0			
+1416	tampa raven chat line	2	0.002	33.616			
+1417	line invaders skis	1	0	0			
+1418	emergency medicine	1	0	0			
+1419	wrist and ankle weights	1	0	0			
+1420	engorged breastfeeding	1	0	0			
+1421	esperanto translator	1	0	0			
+1422	espn2 schedule live	3	0	0			
+1423	event speakers	1	0	0			
+1424	examples of topic sentences	2	0	0			
+1425	Kyoto Treaty topic	4	0	1440.886			
+1426	experian contact	1	0	0			
+1427	explorer not working	1	0	0			
+1428	northern factory sales	1	0.001	0			
+1429	fairborn municipal court ohio	9	0.004	91.083			
+1430	fast food design	4	0	19.33			
+1431	when is goody's closing	2	0	0			
+1432	fat loss pills	3	0	0			
+1433	soups for weight loss	2	0	0			
+1434	fatal motorcycle accidents pictures	2	0	0			
+1435	outlaws motorcycle clubs	1	0	0			
+1436	federal bullets ammunition	1	0	0			
+1437	federal correction institute	1	0	0			
+1438	federal employee holidays	1	0	0			
+1439	Federal Financial Aid	3	0.003	0			
+1440	resolve matters brought before	1	0	0			
+1441	feline health questions	2	0	0			
+1442	female porn	4	0	12.397			
+1443	good work	3	0	44.063			
+1444	porno hb	7	0.007	1686.135			
+1445	free porn storys	8	0.001	1602.478			
+1446	festival network online fno	2	0	0			
+1447	iowa summer writing festival	4	0	3			
+1448	fibre supplements	1	0	0			
+1449	fidelity brokerage	1	0	0			
+1450	file for free taxes	1	0	0			
+1451	how to file bankruptcy in georgia	2	0	0			
+1452	final approach blinds	1	0	0			
+1453	find friends online free	4	0	0			
+1454	how do i find a ein for a business	5	0	95.799			
+1455	find wow character	5	0	272.921			
+1456	quote about character	2	0	49.113			
+1457	firefighter workouts exercise	1	0	0			
+1458	first tech	1	0	0			
+1459	south indian railway map	2	0.002	0			
+1460	paul kane	1	0.001	0			
+1461	paul allen tatoosh	1	0.001	0			
+1462	map of austalia	1	0.001	0			
+1463	google map multiple locations	9	0.007	6.097			
+1464	how to dry lemon zest	4	0	59.491			
+1465	gmac payment	3	0	0			
+1466	free online ged practice test	6	0	392.574			
+1467	free boost mobile codes	3	0.001	3.187			
+1468	florida probate court	4	0	1438			
+1469	humanrights watch	3	0.002	0			
+1470	ugl paint	1	0	0			
+1471	lsu girls basketball	1	0	0			
+1472	Research Data Direct	5	0	23.958			
+1473	florida ports	1	0	0			
+1474	ventura county court	1	0	0			
+1475	floridata plant profile	1	0	0			
+1476	floristerias en guatemala	1	0	0			
+1477	fly off the wall	4	0.002	112.864			
+1478	food concepts	4	0	0			
+1479	phillipines food	3	0	0			
+1480	process manager	1	0	0			
+1481	indian food recepi	1	0	0			
+1482	omeara ford	1	0	0			
+1483	ford tsb	1	0	0			
+1484	fort myers foreclosures	3	0.001	2.886			
+1485	fox soccer channel online	4	0	3			
+1486	soccer supply	1	0	0			
+1487	soccer olympics	1	0	0			
+1488	soccer bet	1	0	0			
+1489	freddie cougar halloween	1	0	0			
+1490	free anime manga series	1	0	0			
+1491	purchase music online	5	0	149.935			
+1492	millenium music conference	2	0	0			
+1493	free commercial lease agreements	1	0	0			
+1494	LETTER CODES	4	0	82.885			
+1495	free cruise for military	1	0	0			
+1496	free easy keyboard songs	1	0	0			
+1497	free email newsletter template	3	0	1438			
+1498	how to set yahoo mail as default	7	0.001	4336.164			
+1499	free timeline template downloads	2	0	0			
+1500	porn on blu-ray	1	0	0			
+1501	free hard fucking videos	1	0	0			
+1502	wrought iron fence parts	1	0.001	0			
+1503	The Book of Revelation	4	0.001	5.515			
+1504	free psp emulator download for pc	30	0.031	231.53			
+1505	free system security download	7	0.003	41.009			
+1506	free indie games downloads	1	0	0			
+1507	smith barney retention package	1	0	0			
+1508	penis help	3	0.002	0			
+1509	naval acquisition intern program	5	0	167.92			
+1510	ibew apprenticeship program	8	0	437.477			
+1511	Life Path	7	0	1491.372			
+1512	free microsoft dvd decoder	4	0.002	0			
+1513	free mp4 joiner download	1	0	0			
+1514	free online rummy games	2	0	0			
+1515	free online dirt bick games	1	0	0			
+1516	free online hunting and fishing games	7	0	311.912			
+1517	jogos online de soccer	3	0	0			
+1518	how to become a hunting guide	4	0	1520.495			
+1519	porno asia	1	0	0			
+1520	free porn website	3	0	0.381			
+1521	helmet liner knitting pattern	6	0.001	267.101			
+1522	free printable birthday cards	1	0	0			
+1523	free printable luggage tags	1	0	0			
+1524	free supplement samples	1	0	0			
+1525	free symmetry worksheets	1	0	0			
+1526	Free tarot readings	2	0	0			
+1527	love tarot free	1	0	0			
+1528	free tiny candid	1	0	0			
+1529	free trial magazines	1	0	0			
+1530	free weather archives noaa	4	0	0.5			
+1531	world weather records	2	0	0			
+1532	web works	1	0	0			
+1533	freezing a wart	1	0	0			
+1534	frontline pbs	1	0.001	0			
+1535	frozen madonna	1	0	0			
+1536	frustration induced criminality	1	0	0			
+1537	full figured bikinis	1	0	0			
+1538	the cougar club	1	0	0			
+1539	fun teen games	1	0	0			
+1540	funny dialogue	1	0	0			
+1541	sacred heart u	6	0.007	0			
+1542	gait belts	2	0	0			
+1543	gallagher comedy show	1	0	0			
+1544	install new program	6	0	0.25			
+1545	This program cannot display the webpage	7	0	44.912			
+1546	geithner tax evasion	1	0	0			
+1547	geneva construction	1	0	0			
+1548	georgia standards commission	1	0	0			
+1549	jimmy buffett license to chill	3	0.001	19.543			
+1550	get off	3	0	0			
+1551	gift ideas for her	1	0	0			
+1552	glendale az restaurants	6	0.007	2.565			
+1553	vestas wind system	2	0	0			
+1554	Safety Related Internet	4	0.001	0			
+1555	Muscular system	4	0.002	50.47			
+1556	Internet charges because	4	0.001	0			
+1557	tesoros trading company	2	0	1438			
+1558	kentucky lake boating accident	1	0	0			
+1559	global warming lie	6	0.005	95.624			
+1560	glow shift	1	0	0			
+1561	gluten free ravioli	1	0	0			
+1562	whiskey bottle sizes	1	0.001	0			
+1563	goddess diana	1	0	0			
+1564	montana bankers association	1	0	0			
+1565	goodwill of michigan	1	0	0			
+1566	grains to grams conversion	1	0	0			
+1567	grant haas ted haggard	1	0	0			
+1568	great worship songs	1	0	0			
+1569	grill mates	1	0	0			
+1570	growing aloe	1	0	0			
+1571	guinea pig costumes	1	0	0			
+1572	hotel reviews from guests	6	0.004	0.48			
+1573	st joes college indiana	2	0	0			
+1574	monmouth college new jersey	2	0	0			
+1575	merrit college oakland ca	2	0	0			
+1576	Gunn's Guide to Style	1	0	0			
+1577	yahoo free e cards holidays	3	0.005	0			
+1578	williams chevrolet elkton md	4	0.007	0			
+1579	white pages tifton ga	3	0.005	0			
+1580	when i met you	3	0.005	0			
+1581	west point pa	5	0.008	0			
+1582	tibia br	6	0.008	0			
+1583	sharp pc	3	0.005	0			
+1584	savannh ga	3	0.005	0			
+1585	que es economia	3	0.005	0			
+1586	owner iq	7	0.011	0			
+1587	new nickleback cd	5	0.008	0			
+1588	la vida de pablo escobar	3	0.005	0			
+1589	la loto	3	0.005	0			
+1590	keystone rv trailers	4	0.006	0			
+1591	jobs in KC	10	0.007	2.049			
+1592	hack youtube	1	0	0			
+1593	halal development corporation	1	0	0			
+1594	st laurent shopping centre	1	0	0			
+1595	HAMMER TOE	1	0	0			
+1596	hanover area	5	0.003	0.246			
+1597	jobs in area	5	0.003	0.246			
+1598	recorder notes for songs instruments	1	0	0			
+1599	new movies releases on dvd	1	0	0			
+1600	hardcore fetish	1	0	0			
+1601	HARTING Technology Group	1	0	0			
+1602	heat recovery systems	1	0	0			
+1603	hero angeles	1	0	0			
+1604	hershy pa	4	0.005	0.203			
+1605	hidden agenda	1	0	0			
+1606	hillary duff	1	0	0			
+1607	shower scene	1	0	0			
+1608	holiday bejeweled	1	0	0			
+1609	weather forecast jakarta	2	0.001	3.083			
+1610	santa ursula jakarta	1	0.001	0			
+1611	jakarta utara	1	0.001	0			
+1612	holly poultry	1	0	0			
+1613	hot hispanic	1	0	0			
+1614	hot mammy	1	0	0			
+1615	house decorating ideas	3	0.002	0.128			
+1616	how many miles in a yard	2	0	0			
+1617	how much is postage	1	0	0			
+1618	how much was my stimulus	1	0	0			
+1619	how to be sensual	4	0	568.559			
+1620	how to become a pathologist	2	0	0			
+1621	lyrics to electric feel by mgmt	1	0	0			
+1622	how to copy wii games console	1	0	0			
+1623	how to design a flyer for free	1	0	0			
+1624	how to download songs on psp	1	0	0			
+1625	how to draw dresses	1	0	0			
+1626	how to fish	1	0	0			
+1627	how to graph linear equations in excel	1	0	0			
+1628	somebody to love lyric	1	0	0			
+1629	make a bracket online	3	0	0			
+1630	how to make a webshow for free characters	5	0	5.403			
+1631	yahoo.com mail sign in	1	0	0			
+1632	how to solve a rubix cube using diagrams	1	0	0			
+1633	how to spot fake ugg boots	1	0	0			
+1634	how to update psp version	1	0	0			
+1635	juiceman ii	6	0.004	1.872			
+1636	human cheek cells	2	0	0			
+1637	john cheek	3	0	1438			
+1638	human resource books	1	0	0			
+1639	hunter fans parts blades	1	0	0			
+1640	Hyatt Regency Adelaide	1	0	0			
+1641	westin store	1	0	0			
+1642	pacatan craft store	1	0	0			
+1643	strausburg	2	0.004	0			
+1644	pacc man mixtape	1	0.002	0			
+1645	ken cockrel jr	2	0.004	0			
+1646	i don't want to work	2	0	0			
+1647	walk a mile	1	0	0			
+1648	vzw pix	1	0.002	0			
+1649	show pig breeders	2	0.003	0			
+1650	icc mississippi	2	0.002	0			
+1651	netflix telephone number	1	0.001	0			
+1652	zip cords	1	0.002	0			
+1653	wii fit calories	1	0.002	0			
+1654	vip mma	1	0.002	0			
+1655	technitrol inc	1	0.002	0			
+1656	spectron iq	1	0.002	0			
+1657	smarthome inc	1	0.002	0			
+1658	pyrimid air	1	0.002	0			
+1659	pie jesu	1	0.002	0			
+1660	oc aa	1	0.002	0			
+1661	mr bento	1	0.002	0			
+1662	mercury grand marque	1	0.002	0			
+1663	juegos de cortar pelo y vestir	2	0.002	0			
+1664	Immigration and naturalization	1	0	0			
+1665	when does the inauguration start?	1	0	0			
+1666	obama inauguration menu	1	0	0			
+1667	indiana railroads	1	0	0			
+1668	Infant CPR	1	0	0			
+1669	innovative educational media company that connects	2	0	0			
+1670	Instant message	1	0	0			
+1671	instant tax services	1	0	0			
+1672	intentional communication without	1	0	0			
+1673	interior journal	2	0	0			
+1674	journal of small animal practice	3	0	1			
+1675	intermountain lock	1	0	0			
+1676	wwls radio	1	0	0			
+1677	wonderbar radio	1	0	0			
+1678	radio amator	1	0	0			
+1679	interstate national dealer services	1	0	0			
+1680	summer slaughter	1	0	0			
+1681	summer banks video clips	1	0	0			
+1682	uci address	1	0	0			
+1683	irish birth records	1	0	0			
+1684	jade bridal dresses	1	0	0			
+1685	jag episodes online	1	0	0			
+1686	speed racer trixie	2	0	6.978			
+1687	jeans fashion	1	0	0			
+1688	jennifer sevilla biography	1	0	0			
+1689	jerry springer com	1	0	0			
+1690	Kim Kardashian Playboy Pictures	2	0	0			
+1691	jimmy fallon girlfriend	1	0	0			
+1692	twilight zone people are alike all over	1	0.001	0			
+1693	mold allergy	1	0.001	0			
+1694	jobs in recreation	1	0	0			
+1695	WOMEN PORN	2	0	0			
+1696	LONG JOHNS	2	0	0			
+1697	johnny londoff chevy	1	0	0			
+1698	jonathan rhys meyers reena hammer	1	0	0			
+1699	practice make perfect	1	0	0			
+1700	jquery drop shadow	1	0	0			
+1701	Kate Hudson biography	1	0	0			
+1702	major stressors in life	1	0	0			
+1703	LIPITOR GENERIC	2	0	0			
+1704	LIVE VIDEO Streaming	1	0	0			
+1705	Living Hope Ministries	1	0	0			
+1706	Lotus Quickr Forum	1	0	0			
+1707	LYRICS TO MY LIFE WOULD SUCK WITHOUT YOU	1	0	0			
+1708	Mac computers	1	0	0			
+1709	Mad World lyrics	1	0	0			
+1710	Mark Mothersbaugh	1	0	0			
+1711	MDBG Chinese Reader	1	0	0			
+1712	Melissa Coates	1	0	0			
+1713	MID DAY	1	0	0			
+1714	Mind Blowing Deals	2	0	0			
+1715	vikings in america	1	0.001	0			
+1716	the best schools in america	1	0.001	0			
+1717	mysterious places in america	1	0.001	0			
+1718	missy higgins falling lyrics	1	0.001	0			
+1719	miss guided	1	0.001	0			
+1720	Most Affordable Option	1	0	0			
+1721	Multiple sclerosis	1	0	0			
+1722	NAACP Image Awards	1	0	0			
+1723	Nanny Express	1	0	0			
+1724	Navigation to the webpage was canceled What you can try:	3	0	331.602			
+1725	New England Coffee	4	0.002	0.272			
+1726	New I-9 Form	1	0	0			
+1727	OBAMA INAUGURATION BALL	1	0	0			
+1728	Oklahoma Unclaimed Property	1	0	0			
+1729	ONLINE CALENDAR	1	0	0			
+1730	Panic! at the disco	1	0	0			
+1731	live and work in sweden	1	0.002	0			
+1732	Pentecostal Bible Studies	1	0	0			
+1733	stamps price	1	0	0			
+1734	Prilosec OTC	1	0	0			
+1735	ProForm Quick Burn SpaceSaver Elliptical	1	0	0			
+1736	project gutenberg	1	0	0			
+1737	REAL HYPERMARKET	1	0	0			
+1738	Samsung Mini DV Camcorder	1	0	0			
+1739	Scientific Advisory Committee	2	0	0			
+1740	Scott Lynch	5	0.002	0.197			
+1741	Search happymeal.com	1	0	0			
+1742	SEXY TEACHERS	1	0	0			
+1743	Share your images	1	0	0			
+1744	vatican newspaper	1	0.001	0			
+1745	need for speed ps2	1	0	0			
+1746	STREP A	1	0	0			
+1747	SUGAR DADDYS	1	0	0			
+1748	Tactics Arena Online	1	0	0			
+1749	The Americans with Disabilities Act	1	0	0			
+1750	The Liver	1	0	0			
+1751	Trick Flow Specialties	1	0	0			
+1752	ULTRA FOOD	1	0	0			
+1753	University of California San Francisco	2	0.001	0			
+1754	marshall university	1	0	0			
+1755	Virgin Money	1	0	0			
+1756	Who's the Boss	2	0	0			
+1757	Wii Shop Channel	2	0.001	0			
+1758	Young and the REstless	1	0	0			
+1759	Your browser sent	1	0	0			
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
